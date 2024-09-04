@@ -17,7 +17,7 @@ I'm Caio, Systems Analyst and Developer looking for a preferred language. With g
 
 My Social Medias:
   
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-aguiar-951393286/)](https://www.linkedin.com/in/caio-aguiar-951393286/)[![Twitter](https://img.shields.io/twitter/follow/oiaC_?style=social)](https://twitter.com/oiaC_)![Discord](https://img.shields.io/badge/@oiac-blue?logo=discord&logoColor=white)[![GitHub](https://img.shields.io/badge/-@caioeax-24292e?style=flat&logo=Github&logoColor=white)](https://github.com/caioeax)[![Instagram](https://img.shields.io/badge/Instagram-E4406F?&logo=instagram&logoColor=white)](https://www.instagram.com/caio__eduu/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-aguiar-951393286/)](https://www.linkedin.com/in/caio-aguiar-951393286/)[![Twitter](https://img.shields.io/twitter/follow/oiaC_?style=social)](https://twitter.com/oiaC_)![Discord](https://img.shields.io/badge/@oiac-blue?logo=discord&logoColor=white)[![GitHub](https://img.shields.io/badge/-@caioeax-24292e?style=flat&logo=Github&logoColor=white)](https://github.com/caioeax)[![Instagram](https://img.shields.io/badge/Caio__Edu-E4406F?&logo=instagram&logoColor=white)](https://www.instagram.com/caio__eduu/)
 
 Favorites Programming Languages:
 
