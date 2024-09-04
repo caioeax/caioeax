@@ -1,12 +1,16 @@
-<h1 align="center"> Whoami</h1>
+<h1 align="center">Whoami</h1>
 
 I'm Caio, Systems Analyst and Developer looking for a preferred language. With great enthusiasm for languages ​​and projects, I balance code with table tennis 🏓.
 
 * I’m currently working on The-Conumdrum.
-* Current learning Python.
+* Also current learning Python.
 * I have little projects with Java, JS, HTML5, CSS5.
 * Fun fact: My name is Caio! 😱😱
 * My discord is oiac !
+
+My Social Medias:
+
+![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)![Twitter](https://img.shields.io/badge/X-000?style=flat-square&for-the-badge&logo=x)![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)
 
 Favorites Programming Languages:
 
