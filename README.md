@@ -1,6 +1,6 @@
 <h1 align="center"> Whoami</h1>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]
+[!JavaScript(https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]
 
 I'm Caio, Systems Analyst and Developer looking for a preferred language. With great enthusiasm for languages ​​and projects, I balance code with table tennis 🏓.
 
