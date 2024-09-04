@@ -1,6 +1,6 @@
 <h1 align="center"> Whoami</h1>
 
-[!Meu LinkedIn(https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/seu-usuario/)
+[![Meu LinkedIn](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/seu-usuario/)
 
 I'm Caio, Systems Analyst and Developer looking for a preferred language. With great enthusiasm for languages ​​and projects, I balance code with table tennis 🏓.
 
