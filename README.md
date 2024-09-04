@@ -9,7 +9,7 @@ I'm Caio, Systems Analyst and Developer looking for a preferred language. With g
 
 My Social Medias:
 
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/caio-aguiar-951393286/)![Twitter](https://img.shields.io/twitter/follow/oiaC_?style=social)![Discord](https://img.shields.io/badge/contact?logo=discord&logoColor=white&link=www.discord.com/oiac)![GitHub](https://img.shields.io/github/followers/caioeax.svg?label=@caioeax&style=social)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/caio-aguiar-951393286/)![Twitter](https://img.shields.io/twitter/follow/oiaC_?style=social)![Discord](https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white)![GitHub](https://img.shields.io/github/followers/caioeax.svg?label=@caioeax&style=social)
 
 Favorites Programming Languages:
 
